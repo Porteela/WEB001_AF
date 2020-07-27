@@ -2,4 +2,4 @@ git clone https://github.com/Porteela/WEB001_AF.git
 cd WEB001_AF
 git add *
 git commit -m "Meu segundo Commit"
-git push origin maste
+git push origin master
